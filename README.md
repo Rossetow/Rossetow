@@ -1,8 +1,8 @@
-# Olá! Eu sou Rafael Rosseto! 🙂 
+# Olá! Eu sou Rafael Rosseto!
 
-- 🔭 Atualmente não trabalho
-- 🌱 Estudando desenvolvimento de sistemas
-- 😄 Ele/dele
+- Atualmente não trabalho
+- Estudando desenvolvimento de sistemas
+- Ele/dele
   
 ##
 
