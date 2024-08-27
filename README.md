@@ -1,6 +1,6 @@
 # Hello! I'm Rafael Rosseto!
 
-- System development student
+- Computer Science student
 - He/Him
   
 ##
