@@ -1,12 +1,11 @@
 # Hello! I'm Rafael Rosseto!
 
-- Computer Science student
+- Computer Science @ Unisinos
 - He/Him
-  
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rossetow&show_icons=true&theme=dracula">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rossetow&show_icons=true&rank_icon=github&theme=codeSTACKr"> 
 </div>
 
 ##
